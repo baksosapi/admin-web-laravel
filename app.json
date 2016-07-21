@@ -9,7 +9,7 @@
     "starter kit"
   ],
   "website": "http://silverbux.github.io/laravel-angular-admin/",
-  "repository": "https://github.com/silverbux/laravel-angular-admin/tree/deploy-to-heroku",
+  "repository": "https://github.com/baksosapi/admin-web-laravel/tree/deploy-to-heroku",
   "scripts": {
     "postdeploy": "composer install"
   },
